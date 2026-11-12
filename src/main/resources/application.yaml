@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Auth-app
+  profiles:
+    active: dev
+
+server:
+  port: 8082
+
